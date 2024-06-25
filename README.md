@@ -1,4 +1,5 @@
-<img width="665" alt="image" src="https://github.com/woosook0127/whisper_senior_kor/assets/59947443/af1ee530-44c0-4e8a-9b39-97129d6d017e"># 1. 서론
+
+# 1. 서론
 
 - 자동음성인식(Automatic Speech Recognition, ASR or Speech To Text, STT)
 - 최근 음성인식을 위한 딥러닝 모델은 Transformer 모델을 기본으로 발전하고있다.
